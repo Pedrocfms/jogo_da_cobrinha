@@ -1,0 +1,28 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+    background-image: url(cobra1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(252, 252, 252);
+}
+
+h1 {
+    background-color: #b38c5f;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    padding: 25px;
+    
+
+}
+
+p {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.25rem;
+}
+
